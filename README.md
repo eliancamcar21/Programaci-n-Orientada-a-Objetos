@@ -11,8 +11,7 @@
 9. [Enum](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Enum)  
 10. [Diseño avanzado de clases](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica10.py)  
 11. [Try](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica12.py)
-    
-12. [Arreglos, Listas, Diccionarios y Conjuntos][(https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica13(Arreglos).py](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Arreglos,%20Listas,%20Diccionarios%20y%20Conjuntos))  
+12. [Arreglos, Listas, Conjuntos y Diccionarios](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Arreglos,%20Listas,%20Diccionarios%20y%20Conjuntos)
 13. [JSON](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica14.py)  
 14. [Flask](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica15.py)
 15. [Hilos y red](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Hilos%20y%20red)
