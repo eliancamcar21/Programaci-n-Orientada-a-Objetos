@@ -12,10 +12,7 @@
 10. [Diseño avanzado de clases](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica10.py)  
 11. [Try](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica12.py)
     
-13. [Arreglos, Listas, Diccionarios y Conjuntos][(https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica13(Arreglos).py](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Arreglos,%20Listas,%20Diccionarios%20y%20Conjuntos))  
-14. [JSON](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica14.py)  
-15. [Flask](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica15.py)
-  
-17. Hilos y red  
-  • [Hilos y red (1)](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica16.py)  
-  • [Hilos y red (2)](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica16(2).py)  
+12. [Arreglos, Listas, Diccionarios y Conjuntos][(https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica13(Arreglos).py](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Arreglos,%20Listas,%20Diccionarios%20y%20Conjuntos))  
+13. [JSON](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica14.py)  
+14. [Flask](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica15.py)
+15. [Hilos y red](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Hilos%20y%20red)
