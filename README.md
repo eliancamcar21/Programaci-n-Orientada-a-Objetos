@@ -8,9 +8,7 @@
 6. [Abstracción](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica6.py)  
 7. [Herencia](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica7.py)  
 8. [Polimorfismo](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica8.py)  
-9. Enum  
-  • [Enum (1)](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica9.py)  
-  • [Enum (2)](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica9(2).py)  
+9. [Enum](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/tree/main/Enum)  
 10. [Diseño avanzado de clases](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica10.py)  
 11. [Try](https://github.com/eliancamcar21/Programaci-n-Orientada-a-Objetos/blob/main/Practica12.py)  
 12. Arreglos, Listas, Diccionarios y Conjuntos  
